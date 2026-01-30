@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Frontend-shoppingapp/static/css/main.d6f5d1dd.css",
+    "main.js": "/Frontend-shoppingapp/static/js/main.c0e7d49c.js",
+    "static/js/453.b022bcca.chunk.js": "/Frontend-shoppingapp/static/js/453.b022bcca.chunk.js",
+    "static/media/baner-2.png": "/Frontend-shoppingapp/static/media/baner-2.1c76b8ce5b29ca2266a4.png",
+    "static/media/baner-3.png": "/Frontend-shoppingapp/static/media/baner-3.7b5dce28495fa50afc3e.png",
+    "static/media/bootstrap-icons.woff?": "/Frontend-shoppingapp/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/Frontend-shoppingapp/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/W DRESS5.jpg": "/Frontend-shoppingapp/static/media/W DRESS5.67188e3463d6b35a373a.jpg",
+    "index.html": "/Frontend-shoppingapp/index.html",
+    "main.d6f5d1dd.css.map": "/Frontend-shoppingapp/static/css/main.d6f5d1dd.css.map",
+    "main.c0e7d49c.js.map": "/Frontend-shoppingapp/static/js/main.c0e7d49c.js.map",
+    "453.b022bcca.chunk.js.map": "/Frontend-shoppingapp/static/js/453.b022bcca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6f5d1dd.css",
+    "static/js/main.c0e7d49c.js"
+  ]
+}
