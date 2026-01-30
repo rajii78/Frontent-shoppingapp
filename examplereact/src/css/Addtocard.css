@@ -1,0 +1,35 @@
+.addtocart-container {
+  display: flex;
+  gap: 40px;
+  padding: 40px;
+}
+
+/* Left side */
+.cart-left {
+  width: 65%;
+}
+
+.cart-item-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+/* Image */
+.img-addtocard {
+  width: 100px;
+  height: 120px;
+  object-fit: cover;
+}
+
+/* Right side */
+.cart-right {
+  width: 30%;
+  border: 1px solid #ddd;
+  padding: 40px;
+  height: fit-content;
+  
+}

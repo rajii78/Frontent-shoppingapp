@@ -1,0 +1,114 @@
+.button {
+    color: orange;
+    height: 100vh;
+    text-align: center;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form-container h2 {
+    margin-bottom: 20px;
+    margin-top: 30px;
+    color: aqua;
+    text-align: center;
+    cursor: none;
+}
+
+.login-container {
+    width: 35%;
+    height: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    margin: 10px auto;
+    padding: 40px;
+    color: white;
+    background: rgb(3, 18, 50);
+    border: 1px solid rgb(107, 149, 233);
+    box-shadow: 0px 2px 10px rgb(52, 52, 48);
+    border-radius: 12px;
+    font-family: Arial, sans-serif;
+    gap: 50px;
+}
+
+#name input {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+}
+
+#password input {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+}
+
+input:focus {
+    outline: 2px solid cyan;
+}
+
+#btn1 {
+    padding: 8px;
+    margin-top: 5px;
+    width: 10rem;
+    background: cyan;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+#btn1:hover {
+    background: blueviolet;
+    transition: 0.2s;
+}
+
+#forget a {
+    color: white !important;
+}
+
+#forget a:hover {
+    color: rgb(39, 200, 224) !important;
+    transition: 0.5s;
+}
+
+#forget {
+    display: flex;
+    justify-content: space-between;
+}
+
+#checkbox {
+    border: none !important;
+    outline: none !important;
+    cursor: pointer;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+
+}
+
+.btn-container a {
+    color: white !important;
+    text-decoration: none;
+}
+
+.btn-container a:hover {
+    color: rgb(39, 200, 224) !important;
+    transition: 0.5s;
+}
+

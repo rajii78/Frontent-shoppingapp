@@ -1,0 +1,5 @@
+.custom-dropdown {
+  width: 100px;        /* your width */
+  min-width: 100px;
+  background-color: aqua;    /* MUST override bootstrap */
+}
